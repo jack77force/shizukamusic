@@ -33,7 +33,7 @@ v<h2 align="center">
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Abishnoi69/AsuXMusic"> <img src="https://img.shields.io/badge/Redirect%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/jack77force/Techno.git"> <img src="https://img.shields.io/badge/Redirect%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 ──────────
 
@@ -81,7 +81,7 @@ v<h2 align="center">
 
 : ➻
 
-➥ [𝐀ʙɪsʜɴᴏɪ] × <a href="http://github.com/Abishnoi69/AsuXMusic" alt="Abishnoi69"> <img src="https://img.shields.io/badge/Abishnoi69-90302f?logo=github" /></a>  
+➥ [𝐀ʙɪsʜɴᴏɪ] × <a href="[http:](https://github.com/jack77force/Techno.git)" alt="Abishnoi69"> <img src="https://img.shields.io/badge/Abishnoi69-90302f?logo=github" /></a>  
 
 
 - **ᴛʜᴀɴᴋꜱ ᴛᴏ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Abishnoi69/AsuXMusic/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴀsᴜ ✘ ᴍᴜsɪᴄ 🖤**
