@@ -81,7 +81,7 @@ v<h2 align="center">
 
 : ➻
 
-➥ [𝐀ʙɪsʜɴᴏɪ] × <a href="http://github.com/Abishnoi69/AsuXMusic" alt="Abishnoi69"> <img src="https://img.shields.io/badge/Abishnoi69-90302f?logo=github" /></a>  
+➥ [𝐀ʙɪsʜɴᴏɪ] × <a href="http://github.com/jack77force/AsuXMusic" alt="Abishnoi69"> <img src="https://img.shields.io/badge/Abishnoi69-90302f?logo=github" /></a>  
 
 
 - **ᴛʜᴀɴᴋꜱ ᴛᴏ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Abishnoi69/AsuXMusic/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴀsᴜ ✘ ᴍᴜsɪᴄ 🖤**
